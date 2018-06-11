@@ -1,0 +1,1 @@
+this is the simple example about Inheritance in Hibernate
